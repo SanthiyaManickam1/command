@@ -1,0 +1,17 @@
+.one{
+    color:blue;
+    background-color: black;
+}
+.two{
+    color:blue;
+    background-color: black;
+}
+.three{
+    text-align: center;
+    background-color: white;
+    width: 300px;
+    border:50px solid yellow;
+    padding:50px;
+    margin:100px;
+
+}
